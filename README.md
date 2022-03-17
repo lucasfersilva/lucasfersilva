@@ -5,7 +5,7 @@
 🧑‍🎓Atualmente estudando NodeJS já que me interesso muito por back-end<br>
 22 anos, Nova iguaçu, RJ<br>
 🤝Contato:lucasmatdlx@hotmail.com<br>
-Portfolio(Apesar de muito desatualizado):lucasfersilva.github.io<br>
+Portfolio(Apesar de muito desatualizado): lucasfersilva.github.io<br>
 
 
 ## 🌐Socials
