@@ -1,11 +1,11 @@
 # 💫About Me :
-💻Trabalho como sysadmin pela Modernização Publica
-🎓Formado em analise de computação e sistemas
-💓Apaixonado por automação
-🧑‍🎓Atualmente estudando NodeJS já que me interesso muito por back-end
-22 anos, Nova iguaçu, RJ
-🤝Contato:lucasmatdlx@hotmail.com
-Portfolio(Apesar de muito desatualizado):lucasfersilva.github.io
+💻Trabalho como sysadmin pela Modernização Publica<br>
+🎓Formado em analise de computação e sistemas<br>
+💓Apaixonado por automação<br>
+🧑‍🎓Atualmente estudando NodeJS já que me interesso muito por back-end<br>
+22 anos, Nova iguaçu, RJ<br>
+🤝Contato:lucasmatdlx@hotmail.com<br>
+Portfolio(Apesar de muito desatualizado):lucasfersilva.github.io<br>
 
 
 ## 🌐Socials
