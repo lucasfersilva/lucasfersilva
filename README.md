@@ -21,7 +21,7 @@ Portfolio(Apesar de muito desatualizado): lucasfersilva.github.io<br>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+### 😂Why I Love Automation
 <img src="https://i.pinimg.com/originals/19/89/1b/19891b1eb9c47b70b739e06b20ba83cd.jpg" width="512px"/>
 
 ---
