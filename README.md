@@ -1,5 +1,5 @@
 # 💫About Me :
-💻Trabalho como sysadmin pela Modernização Publica<br>
+💻Trabalho como Engenheiro de DevOps pela Modernização Publica<br>
 🎓Formado em analise de computação e sistemas<br>
 💓Apaixonado por automação<br>
 🧑‍🎓Atualmente estudando NodeJS já que me interesso muito por back-end<br>
