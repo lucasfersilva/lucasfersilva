@@ -1,11 +1,11 @@
 # 💫About Me :
-💻Trabalho como Engenheiro de DevOps pela Modernização Publica<br>
+💻Trabalho como Gerente de Infraestrutura pela Modernização Publica<br>
 🎓Formado em analise de computação e sistemas<br>
 💓Apaixonado por automação<br>
 🧑‍🎓Atualmente estudando NodeJS já que me interesso muito por back-end<br>
-23 anos, Nova iguaçu, RJ<br>
+25 anos, Pinheiral, RJ<br>
 🤝Contato:lucasmatdlx@hotmail.com<br>
-Portfolio(Apesar de muito desatualizado): lucasfersilva.github.io<br>
+Portfolio: lucasfersilva.github.io<br>
 
 
 ## 🌐Socials
